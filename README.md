@@ -1,6 +1,6 @@
 # CSCE-240-PROJ2-PERSONALCOPY
 
-Project focused on creating a string class and adding its own functions and data. Object definitions are contained in the SuperString.h and member functions and constructors are contained in SuperString.cpp. Testing is either done in main-gtest.cpp (using Google Test) or main.cpp. The full documentation for the member functions and constructors are listed below. 
+Project focuses on creating a string class and adding its own functions and data. Object definitions are contained in the SuperString.h and member functions and constructors are contained in SuperString.cpp. Testing is either done in main-gtest.cpp (using Google Test) or main.cpp. The full documentation for the member functions and constructors are listed below. 
 
 ## SuperString member variables: 
 - `char *data`: a dynamic pointer array that holds each character of the string within that SuperString object
