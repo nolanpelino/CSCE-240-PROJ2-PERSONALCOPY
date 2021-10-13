@@ -25,7 +25,7 @@ int SuperString::length() {
     return size;
 }
 
-SuperString::SuperString() {
+SuperString::SuperString() {  //basic constructor
     this->size = 0;
     data = new char[size];
 }
